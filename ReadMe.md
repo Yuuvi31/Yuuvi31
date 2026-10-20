@@ -1,4 +1,4 @@
-# 💫 About Me:
+
 I work on combinatorial optimization, algorithm design, and applied machine learning.<br>Studying Artificial Intelligence and Data Science at IIT Jodhpur alongside Operations Research at the University of Delhi — one for algorithms and ML, the other for optimization theory and stochastic modeling.<br>Increasingly interested in applying this to markets: optimization under constraints, uncertainty, and real data.<br>Open to conversations on quant research and systematic trading.
 
 
@@ -11,5 +11,8 @@ I work on combinatorial optimization, algorithm design, and applied machine lear
 ![](https://github-readme-stats.shion.dev/api?username=Yuuvi31&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=Yuuvi31&theme=tokyonight&hide_border=true)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Yuuvi31&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+
+<img width="600" height="425" alt="image" src="https://github.com/user-attachments/assets/699bf20c-d70d-4ebf-9529-56d0047c6b28" />
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
