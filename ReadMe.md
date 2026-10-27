@@ -23,6 +23,24 @@ I work on combinatorial optimization, algorithm design, and applied machine lear
 ![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
+![OCaml](https://img.shields.io/badge/OCaml-E98407?style=for-the-badge&logo=ocaml&logoColor=white)
+![Haskell](https://img.shields.io/badge/Haskell-5e5086?style=for-the-badge&logo=haskell&logoColor=white)
+![Fortran](https://img.shields.io/badge/Fortran-734F96?style=for-the-badge&logo=fortran&logoColor=white)
+![Scala](https://img.shields.io/badge/Scala-DC322F?style=for-the-badge&logo=scala&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
+![F Sharp](https://img.shields.io/badge/F%23-378BBA?style=for-the-badge&logo=fsharp&logoColor=white)
+![Elixir](https://img.shields.io/badge/Elixir-4B275F?style=for-the-badge&logo=elixir&logoColor=white)
+
+### Low-Level & Performance Computing
+
+![x86 Assembly](https://img.shields.io/badge/x86--64%20Assembly-6E4C13?style=for-the-badge)
+![SystemVerilog](https://img.shields.io/badge/SystemVerilog-007ACC?style=for-the-badge)
+![VHDL](https://img.shields.io/badge/VHDL-543978?style=for-the-badge)
+
+### Advanced AI & GPU Programming
+
+![Triton](https://img.shields.io/badge/Triton-GPU%20Kernels-7B42BC?style=for-the-badge)
+
 
 
 
